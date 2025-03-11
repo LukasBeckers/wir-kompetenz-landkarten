@@ -104,3 +104,9 @@ Next download the *gadm* data for germany for level-0 to level4 as GeoJSON from
 `https://gadm.org/download_country.html`
 
 Place all .json files in the `./data` folder. They should be named gadm41_DEU_\<level\>.json
+
+Now you can run the following notebooks in the following order to generate the plots: 
+
+1. *Splitting Data on Regions.ipynb*
+2. *Address to Coordinate.ipynb*
+3. *Plots.ipynb*
