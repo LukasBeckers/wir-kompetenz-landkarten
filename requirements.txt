@@ -10,6 +10,6 @@ geopy
 geopandas
 colorcet
 selenium
-requestes_html
+#requestes_html
 lxml[html_clean]
 PyPDF2
